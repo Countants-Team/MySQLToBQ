@@ -1,7 +1,7 @@
 # MySQLToBQ
 How we can upload data MySQL using apache airflow
 
-![alt text](https://drive.google.com/file/d/1HrpbPeXGmUsrPaaTXO9G3UD1K1BOhlnN)
+![alt text](https://drive.google.com/uc?id=1HrpbPeXGmUsrPaaTXO9G3UD1K1BOhlnN)
 
 # Step 1: Download the docker utility 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
